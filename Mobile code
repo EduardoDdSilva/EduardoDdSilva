@@ -1,0 +1,26 @@
+<html>
+<body>
+  <header class="cabecalho">
+  <section class="cabecalho__container">
+     <div class="cabecalho__container1>
+       <a class="container__link" href="#">Home</a>
+       <a class="container__link" href="#">Sobre mim</a>
+     </div>
+   <div class="cabecalho__container2>
+       <a class="container__link" href="#">Mais</a>
+       <a class="container__link" href="#">Mais um pouco</a>
+       <a class="container__link" href="#">Um pouco mais</a>
+     </div>
+  </section>  
+	</header>
+	<main>
+	  <section>
+      <img src="#" alt="Imagem não definida">
+      <div>
+        <h2>Olá Mundo!</h2>
+        <p>(Este site é apenas um teste de um codigo feito em um dispositivo mobile)</p>
+      </div>
+     </section>
+	</main>
+</body>
+</html>
